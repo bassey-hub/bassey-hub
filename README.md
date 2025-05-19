@@ -28,5 +28,3 @@ You can click the Preview link to take a look at your changes.
 <p></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bassey-hub&show_icons=true&locale=en&layout=compact" alt="bassey-hub" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bassey-hub&show_icons=true&locale=en" alt="bassey-hub" /></p>
-
