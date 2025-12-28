@@ -6,10 +6,6 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<img align="left" height="200" src="https://tenor.com/view/pixel-art-kitty-cat-neko-cute-gif-439708727190845736"  />
-
-###
-
 <p align="left">i’m basirat, a software engineering student who’s always tinkering with tech, building projects, and figuring out how things work. when i’m not coding, you’ll probably find me designing, editing videos, or just getting creative in some way. i love learning new things, taking on challenges, and sharing my little wins (and fails) along the way. basically, i’m curious, a bit chaotic, and always up for turning ideas into something real.</p>
 
 ###
@@ -50,8 +46,4 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/bassey-hub/bassey-hub/output/snake.svg" alt="Snake animation" />
-
-###
