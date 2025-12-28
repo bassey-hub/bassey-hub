@@ -46,9 +46,11 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-###
 <h2 align="center">my holopin badges</h2>
+
+###
 
 [![An image of @basseyhub's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/basseyhub)](https://holopin.io/@basseyhub)
 
+###
 
